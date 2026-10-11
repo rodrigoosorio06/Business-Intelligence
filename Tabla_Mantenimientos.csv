@@ -1,0 +1,121 @@
+﻿ID_Mantenimiento,ID_Vehiculo,Pais,Fecha,Tipo_Mantenimiento,Costo_USD
+MANT-500,V-144,Chile,2026-01-01,Electricidad / Frenos,1012.25
+MANT-501,V-115,Argentina,2026-01-03,Correctivo (Mecánica),336.34
+MANT-502,V-133,Argentina,2026-01-05,Cambio de Cubiertas,1316.69
+MANT-503,V-101,Argentina,2026-01-07,Preventivo (Service),361.15
+MANT-504,V-146,Argentina,2026-01-10,Preventivo (Service),545.36
+MANT-505,V-102,Argentina,2026-01-12,Cambio de Cubiertas,1683.23
+MANT-506,V-126,México,2026-01-14,Preventivo (Service),433.3
+MANT-507,V-138,Uruguay,2026-01-17,Preventivo (Service),456.19
+MANT-508,V-112,Argentina,2026-01-19,Correctivo (Mecánica),740.39
+MANT-509,V-124,Argentina,2026-01-21,Preventivo (Service),555.46
+MANT-510,V-122,Argentina,2026-01-23,Cambio de Cubiertas,899.01
+MANT-511,V-135,Argentina,2026-01-26,Correctivo (Mecánica),268.43
+MANT-512,V-131,Argentina,2026-01-28,Correctivo (Mecánica),914.23
+MANT-513,V-145,Uruguay,2026-01-30,Cambio de Cubiertas,1476.53
+MANT-514,V-121,Argentina,2026-02-02,Correctivo (Mecánica),347.92
+MANT-515,V-122,Argentina,2026-02-04,Correctivo (Mecánica),812.39
+MANT-516,V-130,Colombia,2026-02-06,Preventivo (Service),253.53
+MANT-517,V-133,Argentina,2026-02-09,Correctivo (Mecánica),598.05
+MANT-518,V-148,Argentina,2026-02-11,Preventivo (Service),200.05
+MANT-519,V-128,Argentina,2026-02-13,Preventivo (Service),310.47
+MANT-520,V-137,Uruguay,2026-02-15,Cambio de Cubiertas,1112.39
+MANT-521,V-107,Argentina,2026-02-18,Preventivo (Service),298.73
+MANT-522,V-128,Argentina,2026-02-20,Electricidad / Frenos,1514.08
+MANT-523,V-142,Argentina,2026-02-22,Preventivo (Service),537.08
+MANT-524,V-143,Argentina,2026-02-25,Correctivo (Mecánica),1646.88
+MANT-525,V-112,Argentina,2026-02-27,Preventivo (Service),350.93
+MANT-526,V-111,Chile,2026-03-01,Correctivo (Mecánica),341.44
+MANT-527,V-122,Argentina,2026-03-03,Preventivo (Service),355.06
+MANT-528,V-126,México,2026-03-06,Cambio de Cubiertas,1265.15
+MANT-529,V-146,Argentina,2026-03-08,Preventivo (Service),485.22
+MANT-530,V-112,Argentina,2026-03-10,Preventivo (Service),311.38
+MANT-531,V-110,Chile,2026-03-13,Electricidad / Frenos,1309.19
+MANT-532,V-129,Argentina,2026-03-15,Preventivo (Service),390.16
+MANT-533,V-118,Chile,2026-03-17,Correctivo (Mecánica),229.51
+MANT-534,V-136,Argentina,2026-03-20,Preventivo (Service),354.05
+MANT-535,V-140,Argentina,2026-03-22,Preventivo (Service),244.39
+MANT-536,V-113,Chile,2026-03-24,Cambio de Cubiertas,154.75
+MANT-537,V-106,Uruguay,2026-03-26,Cambio de Cubiertas,837.23
+MANT-538,V-112,Argentina,2026-03-29,Preventivo (Service),487.86
+MANT-539,V-108,México,2026-03-31,Correctivo (Mecánica),929.26
+MANT-540,V-121,Argentina,2026-04-02,Preventivo (Service),471.13
+MANT-541,V-144,Chile,2026-04-05,Preventivo (Service),357.89
+MANT-542,V-107,Argentina,2026-04-07,Correctivo (Mecánica),1368.69
+MANT-543,V-127,Argentina,2026-04-09,Electricidad / Frenos,236.13
+MANT-544,V-127,Argentina,2026-04-11,Correctivo (Mecánica),478.71
+MANT-545,V-135,Argentina,2026-04-14,Preventivo (Service),217.2
+MANT-546,V-112,Argentina,2026-04-16,Preventivo (Service),244.6
+MANT-547,V-109,Uruguay,2026-04-18,Correctivo (Mecánica),314.78
+MANT-548,V-109,Uruguay,2026-04-21,Preventivo (Service),351.64
+MANT-549,V-123,Uruguay,2026-04-23,Cambio de Cubiertas,1320.48
+MANT-550,V-113,Chile,2026-04-25,Preventivo (Service),397.15
+MANT-551,V-146,Argentina,2026-04-28,Preventivo (Service),562.43
+MANT-552,V-123,Uruguay,2026-04-30,Correctivo (Mecánica),1598.12
+MANT-553,V-125,Uruguay,2026-05-02,Correctivo (Mecánica),664.58
+MANT-554,V-127,Argentina,2026-05-04,Preventivo (Service),287.92
+MANT-555,V-127,Argentina,2026-05-07,Electricidad / Frenos,357.16
+MANT-556,V-141,Argentina,2026-05-09,Cambio de Cubiertas,1481.81
+MANT-557,V-133,Argentina,2026-05-11,Preventivo (Service),374.2
+MANT-558,V-131,Argentina,2026-05-14,Preventivo (Service),509.26
+MANT-559,V-106,Uruguay,2026-05-16,Preventivo (Service),348.7
+MANT-560,V-115,Argentina,2026-05-18,Correctivo (Mecánica),1243.96
+MANT-561,V-112,Argentina,2026-05-20,Electricidad / Frenos,1547.65
+MANT-562,V-108,México,2026-05-23,Correctivo (Mecánica),1519.11
+MANT-563,V-122,Argentina,2026-05-25,Cambio de Cubiertas,905.69
+MANT-564,V-121,Argentina,2026-05-27,Preventivo (Service),559.78
+MANT-565,V-128,Argentina,2026-05-30,Preventivo (Service),298.64
+MANT-566,V-127,Argentina,2026-06-01,Preventivo (Service),223.89
+MANT-567,V-143,Argentina,2026-06-03,Preventivo (Service),583.12
+MANT-568,V-108,México,2026-06-06,Preventivo (Service),412.29
+MANT-569,V-119,México,2026-06-08,Correctivo (Mecánica),1738.57
+MANT-570,V-127,Argentina,2026-06-10,Cambio de Cubiertas,488.22
+MANT-571,V-125,Uruguay,2026-06-12,Preventivo (Service),256.32
+MANT-572,V-125,Uruguay,2026-06-15,Cambio de Cubiertas,669.99
+MANT-573,V-118,Chile,2026-06-17,Preventivo (Service),524.45
+MANT-574,V-139,Chile,2026-06-19,Electricidad / Frenos,420.4
+MANT-575,V-110,Chile,2026-06-22,Preventivo (Service),338.08
+MANT-576,V-137,Uruguay,2026-06-24,Preventivo (Service),388.0
+MANT-577,V-146,Argentina,2026-06-26,Preventivo (Service),476.0
+MANT-578,V-125,Uruguay,2026-06-28,Preventivo (Service),203.14
+MANT-579,V-140,Argentina,2026-07-01,Preventivo (Service),253.71
+MANT-580,V-149,Chile,2026-07-03,Preventivo (Service),504.44
+MANT-581,V-131,Argentina,2026-07-05,Correctivo (Mecánica),1271.37
+MANT-582,V-104,México,2026-07-08,Correctivo (Mecánica),1682.29
+MANT-583,V-117,Chile,2026-07-10,Correctivo (Mecánica),447.51
+MANT-584,V-130,Colombia,2026-07-12,Preventivo (Service),266.3
+MANT-585,V-128,Argentina,2026-07-15,Preventivo (Service),559.07
+MANT-586,V-143,Argentina,2026-07-17,Cambio de Cubiertas,1768.97
+MANT-587,V-112,Argentina,2026-07-19,Correctivo (Mecánica),796.57
+MANT-588,V-143,Argentina,2026-07-21,Electricidad / Frenos,474.93
+MANT-589,V-134,Argentina,2026-07-24,Preventivo (Service),362.67
+MANT-590,V-125,Uruguay,2026-07-26,Correctivo (Mecánica),511.54
+MANT-591,V-136,Argentina,2026-07-28,Preventivo (Service),437.42
+MANT-592,V-137,Uruguay,2026-07-31,Correctivo (Mecánica),1768.94
+MANT-593,V-103,Argentina,2026-08-02,Cambio de Cubiertas,1358.0
+MANT-594,V-133,Argentina,2026-08-04,Correctivo (Mecánica),802.09
+MANT-595,V-115,Argentina,2026-08-06,Electricidad / Frenos,1399.56
+MANT-596,V-112,Argentina,2026-08-09,Cambio de Cubiertas,1425.6
+MANT-597,V-135,Argentina,2026-08-11,Preventivo (Service),456.25
+MANT-598,V-138,Uruguay,2026-08-13,Cambio de Cubiertas,1734.28
+MANT-599,V-149,Chile,2026-08-16,Cambio de Cubiertas,973.18
+MANT-600,V-108,México,2026-08-18,Cambio de Cubiertas,1444.29
+MANT-601,V-127,Argentina,2026-08-20,Electricidad / Frenos,527.32
+MANT-602,V-142,Argentina,2026-08-23,Preventivo (Service),523.23
+MANT-603,V-139,Chile,2026-08-25,Cambio de Cubiertas,1352.62
+MANT-604,V-126,México,2026-08-27,Preventivo (Service),298.32
+MANT-605,V-128,Argentina,2026-08-29,Preventivo (Service),464.97
+MANT-606,V-109,Uruguay,2026-09-01,Electricidad / Frenos,403.78
+MANT-607,V-126,México,2026-09-03,Electricidad / Frenos,966.21
+MANT-608,V-124,Argentina,2026-09-05,Cambio de Cubiertas,763.34
+MANT-609,V-119,México,2026-09-08,Preventivo (Service),213.05
+MANT-610,V-134,Argentina,2026-09-10,Electricidad / Frenos,1102.25
+MANT-611,V-113,Chile,2026-09-12,Correctivo (Mecánica),1787.53
+MANT-612,V-128,Argentina,2026-09-14,Correctivo (Mecánica),741.65
+MANT-613,V-103,Argentina,2026-09-17,Cambio de Cubiertas,1638.69
+MANT-614,V-125,Uruguay,2026-09-19,Electricidad / Frenos,317.98
+MANT-615,V-109,Uruguay,2026-09-21,Cambio de Cubiertas,1390.42
+MANT-616,V-104,México,2026-09-24,Preventivo (Service),270.09
+MANT-617,V-133,Argentina,2026-09-26,Correctivo (Mecánica),521.07
+MANT-618,V-103,Argentina,2026-09-28,Correctivo (Mecánica),870.41
+MANT-619,V-120,Chile,2026-10-01,Correctivo (Mecánica),1401.98
